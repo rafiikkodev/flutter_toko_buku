@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97561778130",
+    "project_id": "toko-buku-online-1e769",
+    "storage_bucket": "toko-buku-online-1e769.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97561778130:android:723087034b838a47cb5a0b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_toko_buku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoKHtXtYLOIUaeJ9hTybizjaRzHtNuuIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
